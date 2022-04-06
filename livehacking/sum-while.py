@@ -1,11 +1,7 @@
-import sys
-
-limit = int(sys.argv[1])
-
 i = 0
 sum = 0
 
-while i < limit:
+while i < 100:
     sum += i
     i += 1
 
